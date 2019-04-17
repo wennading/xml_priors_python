@@ -1,0 +1,14 @@
+f'''\
+# Uniform.6     so next unform should start from 7
+
+            </prior>
+            ##
+            {tempelete_lines}
+            ##
+        </distribution>
+    <logger 
+        ##           
+        [prior_idref_lines]
+        ##
+    </logger>        
+'''
