@@ -1,0 +1,37 @@
+f'''\
+# Uniform.6     so next unform should start from 7
+
+            </prior>
+            ##
+            {''.join(prior_distribution_lines_0)}
+				{''.join(prior_taxaset_lines_0)}
+					{','.join(prior_taxa_lines_0)}
+				</taxonset>
+				{''.join(prior_uniform_lines_0)}
+			</distribution>
+			{''.join(prior_distribution_lines_1)}
+				{''.join(prior_taxaset_lines_1)}
+					{','.join(prior_taxa_lines_1)}
+				</taxonset>
+				{''.join(prior_uniform_lines_1)}
+			</distribution>
+			{''.join(prior_distribution_lines_2)}
+				{''.join(prior_taxaset_lines_2)}
+					{','.join(prior_taxa_lines_2)}
+				</taxonset>
+				{''.join(prior_uniform_lines_2)}
+			</distribution>
+			{''.join(prior_distribution_lines_3)}
+				{''.join(prior_taxaset_lines_3)}
+
+			
+
+			</distribution>
+            ##
+        </distribution>
+    <logger 
+        ##           
+        {prior_idref_lines}
+        ##
+    </logger>        
+'''
